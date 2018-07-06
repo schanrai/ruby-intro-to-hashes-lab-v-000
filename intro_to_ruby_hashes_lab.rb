@@ -1,6 +1,6 @@
 def new_hash
  new_hash = {}
- new_hash
+ new_hash["Key"] = "Value"
 end
 
 def actor
