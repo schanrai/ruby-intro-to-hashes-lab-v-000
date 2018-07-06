@@ -13,7 +13,7 @@ end
 def monopoly
 #adds a key-value pair to the monopoly hash. The key should be :railroads and the value should be an empty hash"
 	monopoly = {
-		:railroads => " "
+		:railroads => {}
 	}
 
 end
